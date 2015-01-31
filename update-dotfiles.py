@@ -6,8 +6,8 @@ from argparse import ArgumentParser
 import os, syslog, time, subprocess, stat, glob
 
 VERSION = "1.16"
-REPO_NAME = "Yoplitein/tildeslash"
-REPO_HOST = "bitbucket"
+REPO_NAME = "4rChon/tildeslash"
+REPO_HOST = "github"
 REPO_TYPE = "git"
 
 try:
